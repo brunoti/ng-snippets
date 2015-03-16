@@ -29,12 +29,11 @@ To use this snipets enter one of this shortcuts on a JavasScript file:
 3. For **snipMate** paste the `vim` folder content on the `~/.vim/snippets/` or `~/vimfiles/snippets/` for **Windows**.
 4. For **neosnippet** paste the `vim` folder content on your **neosnippet** snippets folder.
 
-> **NOTE:** I recommend neosnippet to use the snippets! It give less bugs and works with snipMate snippets to. [UltiSnips] (https://github.com/SirVer/ultisnips) is good to but is in Python and not VimL so it sometimes fails on Windows. 
+> **NOTE:** I recommend neosnippet to use the snippets! It give less bugs and works with snipMate snippets to. [UltiSnips] (https://github.com/SirVer/ultisnips) is good to but is in Python and not VimL so it's hard to work on Windows. 
 
 ### Snippets
 To use this snipets enter one of this shortcuts on a JavasScript file:
 
-`
 - `ngconfig`
 - `ngconstant`  
 - `ngcontroller`
@@ -44,7 +43,6 @@ To use this snipets enter one of this shortcuts on a JavasScript file:
 - `ngservice`
 - `ngdoc`
 - `nginject`
-`
 
 ## License
 
